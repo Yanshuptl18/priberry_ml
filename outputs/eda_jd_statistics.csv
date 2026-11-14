@@ -1,0 +1,51 @@
+jd_id,title,company,char_length,word_count,tag_count
+JD001,Data Analyst Intern,Kite Learning,291,50,4
+JD002,Frontend Developer Intern,Orbit Logistics,283,48,3
+JD003,Backend Developer Intern,Vayu Mobility,296,51,5
+JD004,Content Writer Intern,Orbit Logistics,284,48,5
+JD005,Marketing Intern,Nimbus AI Labs,307,51,6
+JD006,UI/UX Design Intern,Kite Learning,281,47,4
+JD007,Finance Intern,Lumen Cloud Systems,292,49,5
+JD008,Machine Learning Intern,Tarang Media,298,50,5
+JD009,Customer Support Intern,Saffron Foods,297,49,3
+JD010,HR Intern,Tarang Media,277,47,1
+JD011,Data Analyst Intern,Vayu Mobility,304,51,7
+JD012,Frontend Developer Intern,Lumen Cloud Systems,279,49,4
+JD013,Backend Developer Intern,Pebble Health,269,47,3
+JD014,Content Writer Intern,Pebble Health,269,46,2
+JD015,Marketing Intern,Saffron Foods,316,50,4
+JD016,UI/UX Design Intern,Saffron Foods,290,49,2
+JD017,Finance Intern,Kosha Fintech,265,44,3
+JD018,Machine Learning Intern,Kosha Fintech,293,47,5
+JD019,Customer Support Intern,Tarang Media,309,51,3
+JD020,HR Intern,Pebble Health,286,48,3
+JD021,Data Analyst Intern,Brightlane Retail,278,44,4
+JD022,Frontend Developer Intern,Kite Learning,281,48,5
+JD023,Backend Developer Intern,Pebble Health,286,49,6
+JD024,Content Writer Intern,Kosha Fintech,279,49,3
+JD025,Marketing Intern,Lumen Cloud Systems,295,50,5
+JD026,UI/UX Design Intern,Brightlane Retail,295,51,4
+JD027,Finance Intern,Tarang Media,270,46,3
+JD028,Machine Learning Intern,Lumen Cloud Systems,301,52,3
+JD029,Customer Support Intern,Kite Learning,290,46,3
+JD030,HR Intern,Kosha Fintech,280,46,5
+JD031,Data Analyst Intern,Tarang Media,292,52,5
+JD032,Frontend Developer Intern,Vayu Mobility,268,47,4
+JD033,Backend Developer Intern,Saffron Foods,259,44,4
+JD034,Content Writer Intern,Pebble Health,271,46,4
+JD035,Marketing Intern,Kosha Fintech,290,47,6
+JD036,UI/UX Design Intern,Tarang Media,268,46,3
+JD037,Finance Intern,Kite Learning,267,47,3
+JD038,Machine Learning Intern,Pebble Health,315,51,6
+JD039,Customer Support Intern,Brightlane Retail,298,50,5
+JD040,HR Intern,Orbit Logistics,280,46,6
+JD041,Data Analyst Intern,Nimbus AI Labs,289,51,3
+JD042,Frontend Developer Intern,Vayu Mobility,279,49,3
+JD043,Backend Developer Intern,Pebble Health,253,43,2
+JD044,Content Writer Intern,Orbit Logistics,275,45,4
+JD045,Marketing Intern,Pebble Health,282,47,2
+JD046,UI/UX Design Intern,Kite Learning,286,49,4
+JD047,Finance Intern,Orbit Logistics,276,46,6
+JD048,Machine Learning Intern,Saffron Foods,309,52,6
+JD049,Customer Support Intern,Pebble Health,293,50,2
+JD050,HR Intern,Vayu Mobility,257,40,4

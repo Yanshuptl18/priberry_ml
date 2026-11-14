@@ -1,0 +1,30 @@
+jd_id,job_title,company,predicted_tag,error_category
+JD001,Data Analyst Intern,Kite Learning,Teamwork,Non-Canonical Soft Skill Hallucination
+JD003,Backend Developer Intern,Vayu Mobility,Leadership,Non-Canonical Soft Skill Hallucination
+JD004,Content Writer Intern,Orbit Logistics,SAP,Context-Associated Spurious Prediction
+JD005,Marketing Intern,Nimbus AI Labs,Machine Learning,Context-Associated Spurious Prediction
+JD007,Finance Intern,Lumen Cloud Systems,Kubernetes,Context-Associated Spurious Prediction
+JD008,Machine Learning Intern,Tarang Media,Time Management,Non-Canonical Soft Skill Hallucination
+JD011,Data Analyst Intern,Vayu Mobility,Leadership,Non-Canonical Soft Skill Hallucination
+JD012,Frontend Developer Intern,Lumen Cloud Systems,Kubernetes,Context-Associated Spurious Prediction
+JD013,Backend Developer Intern,Pebble Health,Problem Solving,Non-Canonical Soft Skill Hallucination
+JD015,Marketing Intern,Saffron Foods,Leadership,Non-Canonical Soft Skill Hallucination
+JD018,Machine Learning Intern,Kosha Fintech,Blockchain,Context-Associated Spurious Prediction
+JD019,Customer Support Intern,Tarang Media,Teamwork,Non-Canonical Soft Skill Hallucination
+JD023,Backend Developer Intern,Pebble Health,API,Unmapped Technical Acronym
+JD023,Backend Developer Intern,Pebble Health,Communication,Non-Canonical Soft Skill Hallucination
+JD025,Marketing Intern,Lumen Cloud Systems,Kubernetes,Context-Associated Spurious Prediction
+JD025,Marketing Intern,Lumen Cloud Systems,Leadership,Non-Canonical Soft Skill Hallucination
+JD026,UI/UX Design Intern,Brightlane Retail,Leadership,Non-Canonical Soft Skill Hallucination
+JD027,Finance Intern,Tarang Media,Problem Solving,Non-Canonical Soft Skill Hallucination
+JD030,HR Intern,Kosha Fintech,Blockchain,Context-Associated Spurious Prediction
+JD030,HR Intern,Kosha Fintech,Leadership,Non-Canonical Soft Skill Hallucination
+JD031,Data Analyst Intern,Tarang Media,Communication,Non-Canonical Soft Skill Hallucination
+JD035,Marketing Intern,Kosha Fintech,Blockchain,Context-Associated Spurious Prediction
+JD039,Customer Support Intern,Brightlane Retail,Teamwork,Non-Canonical Soft Skill Hallucination
+JD040,HR Intern,Orbit Logistics,Leadership,Non-Canonical Soft Skill Hallucination
+JD040,HR Intern,Orbit Logistics,SAP,Context-Associated Spurious Prediction
+JD041,Data Analyst Intern,Nimbus AI Labs,Machine Learning,Context-Associated Spurious Prediction
+JD044,Content Writer Intern,Orbit Logistics,SAP,Context-Associated Spurious Prediction
+JD046,UI/UX Design Intern,Kite Learning,Problem Solving,Non-Canonical Soft Skill Hallucination
+JD047,Finance Intern,Orbit Logistics,SAP,Context-Associated Spurious Prediction

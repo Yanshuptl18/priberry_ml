@@ -1,0 +1,9 @@
+original_tag,canonical_skill,mapping_type,supporting_context,relevant_jd_id,decision,confidence,reviewer_status
+Financial Modeling,Financial Modelling,Globally Defensible,"We need someone who knows Financial Modelling, Microsoft Excel... (JD007)","JD007, JD017, JD027, JD047",Approved,High,reviewed
+Node,Node.js,Globally Defensible,"You must be comfortable with Docker, REST APIs, PostgreSQL, Node.js... (JD003)","JD003, JD013, JD023, JD043",Approved,High,reviewed
+Postgres,PostgreSQL,Globally Defensible,"Required: Python, Node.js, PostgreSQL and Git... (JD033)",JD033,Approved,High,reviewed
+JS,JavaScript,Globally Defensible,"We need someone who knows TypeScript, CSS, React, HTML and JavaScript... (JD022)",JD022,Approved,High,reviewed
+ML,Machine Learning,Globally Defensible,"You will use Pandas, Python, Machine Learning, SQL... (JD048)",JD048,Approved,High,reviewed
+Excel,Microsoft Excel,Globally Defensible,"We need someone who knows Recruiting, Microsoft Excel... (JD020)","JD020, JD030, JD031, JD047, JD050",Approved,High,reviewed
+Social Media,Social Media Marketing,Context-Dependent,"You will use Copywriting, Email Marketing and Social Media Marketing every day... (JD045)",JD045,Approved (Contextual),High,reviewed
+API,REST APIs,Rejected (Unmapped),"We need someone who knows Python, Docker, Node.js and REST APIs... (JD023)",JD023,Rejected (Unmapped),Low,reviewed

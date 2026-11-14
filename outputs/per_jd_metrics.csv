@@ -1,0 +1,51 @@
+jd_id,job_title,company,predicted_skill_count,target_skill_count,tp,fp,fn,precision,recall,f1,required_tp,required_fn,required_recall,preferred_tp,preferred_fn,preferred_recall,incorrect_tags,missing_tags
+JD001,Data Analyst Intern,Kite Learning,4,4,3,1,1,0.75,0.75,0.75,3,0,1.0,0,1,0.0,Teamwork,Data Cleaning
+JD002,Frontend Developer Intern,Orbit Logistics,3,5,3,0,2,1.0,0.6,0.7499999999999999,3,1,0.75,0,1,0.0,,HTML; React
+JD003,Backend Developer Intern,Vayu Mobility,5,6,4,1,2,0.8,0.6666666666666666,0.7272727272727272,4,1,0.8,0,1,0.0,Leadership,Git; Python
+JD004,Content Writer Intern,Orbit Logistics,5,4,4,1,0,0.8,1.0,0.888888888888889,3,0,1.0,1,0,1.0,SAP,
+JD005,Marketing Intern,Nimbus AI Labs,6,5,5,1,0,0.8333333333333334,1.0,0.9090909090909091,4,0,1.0,1,0,1.0,Machine Learning,
+JD006,UI/UX Design Intern,Kite Learning,4,5,4,0,1,1.0,0.8,0.888888888888889,4,0,1.0,0,1,0.0,,Prototyping
+JD007,Finance Intern,Lumen Cloud Systems,5,5,4,1,1,0.8,0.8,0.8000000000000002,4,0,1.0,0,1,0.0,Kubernetes,Tally
+JD008,Machine Learning Intern,Tarang Media,5,6,4,1,2,0.8,0.6666666666666666,0.7272727272727272,4,1,0.8,0,1,0.0,Time Management,Machine Learning; Pandas
+JD009,Customer Support Intern,Saffron Foods,3,4,3,0,1,1.0,0.75,0.8571428571428571,2,1,0.6666666666666666,1,0,1.0,,Microsoft Excel
+JD010,HR Intern,Tarang Media,1,4,1,0,3,1.0,0.25,0.4,1,2,0.3333333333333333,0,1,0.0,,HR Operations; Interviewing; Microsoft Excel
+JD011,Data Analyst Intern,Vayu Mobility,7,6,6,1,0,0.8571428571428571,1.0,0.923076923076923,5,0,1.0,1,0,1.0,Leadership,
+JD012,Frontend Developer Intern,Lumen Cloud Systems,4,4,3,1,1,0.75,0.75,0.75,3,0,1.0,0,1,0.0,Kubernetes,HTML
+JD013,Backend Developer Intern,Pebble Health,3,4,2,1,2,0.6666666666666666,0.5,0.5714285714285715,2,1,0.6666666666666666,0,1,0.0,Problem Solving,Docker; PostgreSQL
+JD014,Content Writer Intern,Pebble Health,2,4,2,0,2,1.0,0.5,0.6666666666666666,2,1,0.6666666666666666,0,1,0.0,,Content Writing; WordPress
+JD015,Marketing Intern,Saffron Foods,4,5,3,1,2,0.75,0.6,0.6666666666666665,3,1,0.75,0,1,0.0,Leadership,Canva; Social Media Marketing
+JD016,UI/UX Design Intern,Saffron Foods,2,4,2,0,2,1.0,0.5,0.6666666666666666,2,1,0.6666666666666666,0,1,0.0,,Figma; Wireframing
+JD017,Finance Intern,Kosha Fintech,3,4,3,0,1,1.0,0.75,0.8571428571428571,3,0,1.0,0,1,0.0,,GST
+JD018,Machine Learning Intern,Kosha Fintech,5,5,4,1,1,0.8,0.8,0.8000000000000002,4,0,1.0,0,1,0.0,Blockchain,Statistics
+JD019,Customer Support Intern,Tarang Media,3,4,2,1,2,0.6666666666666666,0.5,0.5714285714285715,2,1,0.6666666666666666,0,1,0.0,Teamwork,Written English; Zendesk
+JD020,HR Intern,Pebble Health,3,4,3,0,1,1.0,0.75,0.8571428571428571,3,0,1.0,0,1,0.0,,HR Operations
+JD021,Data Analyst Intern,Brightlane Retail,4,5,4,0,1,1.0,0.8,0.888888888888889,4,0,1.0,0,1,0.0,,Python
+JD022,Frontend Developer Intern,Kite Learning,5,6,5,0,1,1.0,0.8333333333333334,0.9090909090909091,4,1,0.8,1,0,1.0,,HTML
+JD023,Backend Developer Intern,Pebble Health,6,5,4,2,1,0.6666666666666666,0.8,0.7272727272727272,3,1,0.75,1,0,1.0,API; Communication,REST APIs
+JD024,Content Writer Intern,Kosha Fintech,3,4,3,0,1,1.0,0.75,0.8571428571428571,3,0,1.0,0,1,0.0,,Research
+JD025,Marketing Intern,Lumen Cloud Systems,5,4,3,2,1,0.6,0.75,0.6666666666666665,3,0,1.0,0,1,0.0,Kubernetes; Leadership,Social Media Marketing
+JD026,UI/UX Design Intern,Brightlane Retail,4,4,3,1,1,0.75,0.75,0.75,3,0,1.0,0,1,0.0,Leadership,Prototyping
+JD027,Finance Intern,Tarang Media,3,5,2,1,3,0.6666666666666666,0.4,0.5,2,2,0.5,0,1,0.0,Problem Solving,Accounting; GST; Microsoft Excel
+JD028,Machine Learning Intern,Lumen Cloud Systems,3,4,3,0,1,1.0,0.75,0.8571428571428571,2,1,0.6666666666666666,1,0,1.0,,Machine Learning
+JD029,Customer Support Intern,Kite Learning,3,4,3,0,1,1.0,0.75,0.8571428571428571,2,1,0.6666666666666666,1,0,1.0,,Zendesk
+JD030,HR Intern,Kosha Fintech,5,4,3,2,1,0.6,0.75,0.6666666666666665,3,0,1.0,0,1,0.0,Blockchain; Leadership,Interviewing
+JD031,Data Analyst Intern,Tarang Media,5,5,4,1,1,0.8,0.8,0.8000000000000002,4,0,1.0,0,1,0.0,Communication,SQL
+JD032,Frontend Developer Intern,Vayu Mobility,4,5,4,0,1,1.0,0.8,0.888888888888889,4,0,1.0,0,1,0.0,,CSS
+JD033,Backend Developer Intern,Saffron Foods,4,5,4,0,1,1.0,0.8,0.888888888888889,4,0,1.0,0,1,0.0,,REST APIs
+JD034,Content Writer Intern,Pebble Health,4,4,4,0,0,1.0,1.0,1.0,3,0,1.0,1,0,1.0,,
+JD035,Marketing Intern,Kosha Fintech,6,5,5,1,0,0.8333333333333334,1.0,0.9090909090909091,4,0,1.0,1,0,1.0,Blockchain,
+JD036,UI/UX Design Intern,Tarang Media,3,4,3,0,1,1.0,0.75,0.8571428571428571,3,0,1.0,0,1,0.0,,Design Systems
+JD037,Finance Intern,Kite Learning,3,4,3,0,1,1.0,0.75,0.8571428571428571,3,0,1.0,0,1,0.0,,GST
+JD038,Machine Learning Intern,Pebble Health,6,6,6,0,0,1.0,1.0,1.0,5,0,1.0,1,0,1.0,,
+JD039,Customer Support Intern,Brightlane Retail,5,4,4,1,0,0.8,1.0,0.888888888888889,3,0,1.0,1,0,1.0,Teamwork,
+JD040,HR Intern,Orbit Logistics,6,4,4,2,0,0.6666666666666666,1.0,0.8,3,0,1.0,1,0,1.0,Leadership; SAP,
+JD041,Data Analyst Intern,Nimbus AI Labs,3,4,2,1,2,0.6666666666666666,0.5,0.5714285714285715,2,1,0.6666666666666666,0,1,0.0,Machine Learning,Power BI; SQL
+JD042,Frontend Developer Intern,Vayu Mobility,3,4,3,0,1,1.0,0.75,0.8571428571428571,3,0,1.0,0,1,0.0,,CSS
+JD043,Backend Developer Intern,Pebble Health,2,4,2,0,2,1.0,0.5,0.6666666666666666,1,2,0.3333333333333333,1,0,1.0,,PostgreSQL; REST APIs
+JD044,Content Writer Intern,Orbit Logistics,4,4,3,1,1,0.75,0.75,0.75,2,1,0.6666666666666666,1,0,1.0,SAP,Copy Editing
+JD045,Marketing Intern,Pebble Health,2,4,2,0,2,1.0,0.5,0.6666666666666666,2,1,0.6666666666666666,0,1,0.0,,Canva; Copywriting
+JD046,UI/UX Design Intern,Kite Learning,4,5,3,1,2,0.75,0.6,0.6666666666666665,2,2,0.5,1,0,1.0,Problem Solving,Design Systems; Figma
+JD047,Finance Intern,Orbit Logistics,6,5,5,1,0,0.8333333333333334,1.0,0.9090909090909091,4,0,1.0,1,0,1.0,SAP,
+JD048,Machine Learning Intern,Saffron Foods,6,6,6,0,0,1.0,1.0,1.0,5,0,1.0,1,0,1.0,,
+JD049,Customer Support Intern,Pebble Health,2,4,2,0,2,1.0,0.5,0.6666666666666666,1,2,0.3333333333333333,1,0,1.0,,Customer Support; Microsoft Excel
+JD050,HR Intern,Vayu Mobility,4,4,4,0,0,1.0,1.0,1.0,3,0,1.0,1,0,1.0,,

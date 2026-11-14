@@ -1,0 +1,4 @@
+Category,Type,Count,Percentage,Resolution Path
+Pattern 3: Context-Associated Spurious Predictions,False Positive,12,100.0% of remaining FPs,Requires passage text verification
+Pattern 1: Preferred Skill Omissions,False Negative,30,53.6% of remaining FNs,Requires secondary clause extraction
+Other: Required Skill Omissions,False Negative,26,46.4% of remaining FNs,Requires comprehensive pattern coverage

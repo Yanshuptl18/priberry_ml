@@ -1,0 +1,6 @@
+Error Category,Error Type,Count,Percentage of Error Type,Affected JDs,Description
+Pattern 1: Preferred Skill Omissions,False Negative,30,53.57%,30,Omission of secondary/nice-to-have qualifications appearing in bonus sections
+Pattern 2: Non-Canonical Soft Skill Hallucinations,False Positive,16,55.17%,16,Extraction of non-canonical behavioral traits absent from official vocabulary
+Pattern 3: Context-Associated Spurious Predictions,False Positive,12,41.38%,12,Spurious technical skills correlating with hiring company domain without text support
+Other: Required Skill Omissions,False Negative,26,46.43%,21,Omission of explicitly stated required core technical competencies
+Other: Unmapped Technical Acronym,False Positive,1,3.45%,1,Generic acronym API unmapped due to lack of REST-specific qualifier

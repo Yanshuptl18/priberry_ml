@@ -1,0 +1,10 @@
+Metric,Baseline,M1 Guardrail,Absolute Delta,Relative Gain
+Micro Precision,85.50%,93.44%,+7.94 pp,+9.29%
+Micro Recall,75.33%,75.33%,+0.00 pp,0.00%
+Micro F1-Score,80.09%,83.41%,+3.32 pp,+4.15%
+Macro Precision,87.31%,94.73%,+7.42 pp,+8.50%
+Macro Recall,74.53%,74.53%,+0.00 pp,0.00%
+Macro F1-Score,78.71%,81.67%,+2.96 pp,+3.77%
+True Positives (TP),171,171,0,0.00%
+False Positives (FP),29,12,-17,-58.62%
+False Negatives (FN),56,56,0,0.00%

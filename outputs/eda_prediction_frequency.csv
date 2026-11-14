@@ -1,0 +1,62 @@
+Rank,Predicted Tag,Emission Count,Prevalence (% of JDs),Canonical Status
+1,Python,10,20.0,Canonical
+2,Microsoft Excel,8,16.0,Canonical
+3,Leadership,7,14.0,Out-of-Vocabulary
+4,Statistics,6,12.0,Canonical
+5,SQL,6,12.0,Canonical
+6,Git,6,12.0,Canonical
+7,Recruiting,5,10.0,Canonical
+8,Email Marketing,5,10.0,Canonical
+9,Excel,5,10.0,Out-of-Vocabulary
+10,PyTorch,5,10.0,Canonical
+11,SEO,5,10.0,Canonical
+12,Financial Modeling,4,8.0,Out-of-Vocabulary
+13,Node,4,8.0,Out-of-Vocabulary
+14,Machine Learning,4,8.0,Canonical
+15,Customer Support,4,8.0,Canonical
+16,Data Cleaning,4,8.0,Canonical
+17,Accounting,4,8.0,Canonical
+18,SAP,4,8.0,Canonical
+19,Google Analytics,4,8.0,Canonical
+20,Written English,4,8.0,Canonical
+21,Pandas,4,8.0,Canonical
+22,Tally,4,8.0,Canonical
+23,Wireframing,4,8.0,Canonical
+24,Research,4,8.0,Canonical
+25,Copywriting,3,6.0,Canonical
+26,JavaScript,3,6.0,Canonical
+27,TypeScript,3,6.0,Canonical
+28,WordPress,3,6.0,Canonical
+29,Canva,3,6.0,Canonical
+30,HR Operations,3,6.0,Canonical
+31,Teamwork,3,6.0,Out-of-Vocabulary
+32,Problem Solving,3,6.0,Out-of-Vocabulary
+33,Kubernetes,3,6.0,Canonical
+34,Content Writing,3,6.0,Canonical
+35,Figma,3,6.0,Canonical
+36,User Research,3,6.0,Canonical
+37,Design Systems,3,6.0,Canonical
+38,CSS,3,6.0,Canonical
+39,Blockchain,3,6.0,Canonical
+40,Zendesk,3,6.0,Canonical
+41,React,3,6.0,Canonical
+42,Interviewing,3,6.0,Canonical
+43,Social Media Marketing,2,4.0,Canonical
+44,Docker,2,4.0,Canonical
+45,PostgreSQL,2,4.0,Canonical
+46,Communication,2,4.0,Out-of-Vocabulary
+47,GST,2,4.0,Canonical
+48,Tableau,2,4.0,Canonical
+49,Prototyping,2,4.0,Canonical
+50,REST APIs,1,2.0,Canonical
+51,Time Management,1,2.0,Out-of-Vocabulary
+52,Power BI,1,2.0,Canonical
+53,JS,1,2.0,Out-of-Vocabulary
+54,API,1,2.0,Out-of-Vocabulary
+55,Copy Editing,1,2.0,Canonical
+56,HTML,1,2.0,Canonical
+57,Node.js,1,2.0,Canonical
+58,Postgres,1,2.0,Out-of-Vocabulary
+59,Financial Modelling,1,2.0,Canonical
+60,Social Media,1,2.0,Out-of-Vocabulary
+61,ML,1,2.0,Out-of-Vocabulary

@@ -1,0 +1,228 @@
+jd_id,skill,tier,in_canonical_vocab,evidence_excerpt,evidence_verbatim_in_jd,audit_status
+JD001,Microsoft Excel,required,True,"We need someone who knows Python, Statistics and Microsoft Excel",True,verified
+JD001,Python,required,True,"We need someone who knows Python, Statistics and Microsoft Excel",True,verified
+JD001,Statistics,required,True,"We need someone who knows Python, Statistics and Microsoft Excel",True,verified
+JD001,Data Cleaning,preferred,True,"Data Cleaning is a plus, not a must",True,verified
+JD002,CSS,required,True,"You will use React, TypeScript, CSS and JavaScript every day",True,verified
+JD002,JavaScript,required,True,"You will use React, TypeScript, CSS and JavaScript every day",True,verified
+JD002,React,required,True,"You will use React, TypeScript, CSS and JavaScript every day",True,verified
+JD002,TypeScript,required,True,"You will use React, TypeScript, CSS and JavaScript every day",True,verified
+JD002,HTML,preferred,True,Nice to have: HTML,True,verified
+JD003,Docker,required,True,"You must be comfortable with Docker, REST APIs, PostgreSQL, Node.js and Git",True,verified
+JD003,Git,required,True,"You must be comfortable with Docker, REST APIs, PostgreSQL, Node.js and Git",True,verified
+JD003,Node.js,required,True,"You must be comfortable with Docker, REST APIs, PostgreSQL, Node.js and Git",True,verified
+JD003,PostgreSQL,required,True,"You must be comfortable with Docker, REST APIs, PostgreSQL, Node.js and Git",True,verified
+JD003,REST APIs,required,True,"You must be comfortable with Docker, REST APIs, PostgreSQL, Node.js and Git",True,verified
+JD003,Python,preferred,True,Bonus if you have used Python,True,verified
+JD004,Content Writing,required,True,"We need someone who knows Content Writing, Research and WordPress",True,verified
+JD004,Research,required,True,"We need someone who knows Content Writing, Research and WordPress",True,verified
+JD004,WordPress,required,True,"We need someone who knows Content Writing, Research and WordPress",True,verified
+JD004,SEO,preferred,True,Bonus if you have used SEO,True,verified
+JD005,Canva,required,True,"We need someone who knows Canva, Email Marketing, Copywriting and Google Analytics",True,verified
+JD005,Copywriting,required,True,"We need someone who knows Canva, Email Marketing, Copywriting and Google Analytics",True,verified
+JD005,Email Marketing,required,True,"We need someone who knows Canva, Email Marketing, Copywriting and Google Analytics",True,verified
+JD005,Google Analytics,required,True,"We need someone who knows Canva, Email Marketing, Copywriting and Google Analytics",True,verified
+JD005,Social Media Marketing,preferred,True,Bonus if you have used Social Media Marketing,True,verified
+JD006,Design Systems,required,True,"You will use Wireframing, User Research, Figma and Design Systems every day",True,verified
+JD006,Figma,required,True,"You will use Wireframing, User Research, Figma and Design Systems every day",True,verified
+JD006,User Research,required,True,"You will use Wireframing, User Research, Figma and Design Systems every day",True,verified
+JD006,Wireframing,required,True,"You will use Wireframing, User Research, Figma and Design Systems every day",True,verified
+JD006,Prototyping,preferred,True,Nice to have: Prototyping,True,verified
+JD007,Accounting,required,True,"We need someone who knows Financial Modelling, Microsoft Excel, Accounting and GST",True,verified
+JD007,Financial Modelling,required,True,"We need someone who knows Financial Modelling, Microsoft Excel, Accounting and GST",True,verified
+JD007,GST,required,True,"We need someone who knows Financial Modelling, Microsoft Excel, Accounting and GST",True,verified
+JD007,Microsoft Excel,required,True,"We need someone who knows Financial Modelling, Microsoft Excel, Accounting and GST",True,verified
+JD007,Tally,preferred,True,Bonus if you have used Tally,True,verified
+JD008,Machine Learning,required,True,"You will use PyTorch, Python, SQL, Machine Learning and Statistics every day",True,verified
+JD008,PyTorch,required,True,"You will use PyTorch, Python, SQL, Machine Learning and Statistics every day",True,verified
+JD008,Python,required,True,"You will use PyTorch, Python, SQL, Machine Learning and Statistics every day",True,verified
+JD008,SQL,required,True,"You will use PyTorch, Python, SQL, Machine Learning and Statistics every day",True,verified
+JD008,Statistics,required,True,"You will use PyTorch, Python, SQL, Machine Learning and Statistics every day",True,verified
+JD008,Pandas,preferred,True,Bonus if you have used Pandas,True,verified
+JD009,Customer Support,required,True,"We need someone who knows Customer Support, Microsoft Excel and Written English",True,verified
+JD009,Microsoft Excel,required,True,"We need someone who knows Customer Support, Microsoft Excel and Written English",True,verified
+JD009,Written English,required,True,"We need someone who knows Customer Support, Microsoft Excel and Written English",True,verified
+JD009,Zendesk,preferred,True,Bonus if you have used Zendesk,True,verified
+JD010,HR Operations,required,True,"You will use Recruiting, Interviewing and HR Operations every day",True,verified
+JD010,Interviewing,required,True,"You will use Recruiting, Interviewing and HR Operations every day",True,verified
+JD010,Recruiting,required,True,"You will use Recruiting, Interviewing and HR Operations every day",True,verified
+JD010,Microsoft Excel,preferred,True,"Microsoft Excel is a plus, not a must",True,verified
+JD011,Data Cleaning,required,True,"You must be comfortable with Data Cleaning, SQL, Tableau, Microsoft Excel and Power BI",True,verified
+JD011,Microsoft Excel,required,True,"You must be comfortable with Data Cleaning, SQL, Tableau, Microsoft Excel and Power BI",True,verified
+JD011,Power BI,required,True,"You must be comfortable with Data Cleaning, SQL, Tableau, Microsoft Excel and Power BI",True,verified
+JD011,SQL,required,True,"You must be comfortable with Data Cleaning, SQL, Tableau, Microsoft Excel and Power BI",True,verified
+JD011,Tableau,required,True,"You must be comfortable with Data Cleaning, SQL, Tableau, Microsoft Excel and Power BI",True,verified
+JD011,Python,preferred,True,Bonus if you have used Python,True,verified
+JD012,CSS,required,True,"You will use CSS, TypeScript and Git every day",True,verified
+JD012,Git,required,True,"You will use CSS, TypeScript and Git every day",True,verified
+JD012,TypeScript,required,True,"You will use CSS, TypeScript and Git every day",True,verified
+JD012,HTML,preferred,True,Bonus if you have used HTML,True,verified
+JD013,Node.js,required,True,"You will use Node.js, PostgreSQL and Python every day",True,verified
+JD013,PostgreSQL,required,True,"You will use Node.js, PostgreSQL and Python every day",True,verified
+JD013,Python,required,True,"You will use Node.js, PostgreSQL and Python every day",True,verified
+JD013,Docker,preferred,True,Nice to have: Docker,True,verified
+JD014,Content Writing,required,True,"We need someone who knows Research, SEO and Content Writing",True,verified
+JD014,Research,required,True,"We need someone who knows Research, SEO and Content Writing",True,verified
+JD014,SEO,required,True,"We need someone who knows Research, SEO and Content Writing",True,verified
+JD014,WordPress,preferred,True,"WordPress is a plus, not a must",True,verified
+JD015,Canva,required,True,"You must be comfortable with Email Marketing, Copywriting, Google Analytics and Canva",True,verified
+JD015,Copywriting,required,True,"You must be comfortable with Email Marketing, Copywriting, Google Analytics and Canva",True,verified
+JD015,Email Marketing,required,True,"You must be comfortable with Email Marketing, Copywriting, Google Analytics and Canva",True,verified
+JD015,Google Analytics,required,True,"You must be comfortable with Email Marketing, Copywriting, Google Analytics and Canva",True,verified
+JD015,Social Media Marketing,preferred,True,Bonus if you have used Social Media Marketing,True,verified
+JD016,Design Systems,required,True,"You must be comfortable with Prototyping, Figma and Design Systems",True,verified
+JD016,Figma,required,True,"You must be comfortable with Prototyping, Figma and Design Systems",True,verified
+JD016,Prototyping,required,True,"You must be comfortable with Prototyping, Figma and Design Systems",True,verified
+JD016,Wireframing,preferred,True,Nice to have: Wireframing,True,verified
+JD017,Accounting,required,True,"Required: Tally, Accounting and Financial Modelling",True,verified
+JD017,Financial Modelling,required,True,"Required: Tally, Accounting and Financial Modelling",True,verified
+JD017,Tally,required,True,"Required: Tally, Accounting and Financial Modelling",True,verified
+JD017,GST,preferred,True,Bonus if you have used GST,True,verified
+JD018,Machine Learning,required,True,"Required: Machine Learning, Pandas, SQL and PyTorch",True,verified
+JD018,Pandas,required,True,"Required: Machine Learning, Pandas, SQL and PyTorch",True,verified
+JD018,PyTorch,required,True,"Required: Machine Learning, Pandas, SQL and PyTorch",True,verified
+JD018,SQL,required,True,"Required: Machine Learning, Pandas, SQL and PyTorch",True,verified
+JD018,Statistics,preferred,True,Bonus if you have used Statistics,True,verified
+JD019,Customer Support,required,True,"We need someone who knows Microsoft Excel, Customer Support and Written English",True,verified
+JD019,Microsoft Excel,required,True,"We need someone who knows Microsoft Excel, Customer Support and Written English",True,verified
+JD019,Written English,required,True,"We need someone who knows Microsoft Excel, Customer Support and Written English",True,verified
+JD019,Zendesk,preferred,True,Bonus if you have used Zendesk,True,verified
+JD020,Interviewing,required,True,"We need someone who knows Recruiting, Microsoft Excel and Interviewing",True,verified
+JD020,Microsoft Excel,required,True,"We need someone who knows Recruiting, Microsoft Excel and Interviewing",True,verified
+JD020,Recruiting,required,True,"We need someone who knows Recruiting, Microsoft Excel and Interviewing",True,verified
+JD020,HR Operations,preferred,True,"HR Operations is a plus, not a must",True,verified
+JD021,Data Cleaning,required,True,"Required: SQL, Tableau, Data Cleaning and Statistics",True,verified
+JD021,SQL,required,True,"Required: SQL, Tableau, Data Cleaning and Statistics",True,verified
+JD021,Statistics,required,True,"Required: SQL, Tableau, Data Cleaning and Statistics",True,verified
+JD021,Tableau,required,True,"Required: SQL, Tableau, Data Cleaning and Statistics",True,verified
+JD021,Python,preferred,True,Nice to have: Python,True,verified
+JD022,CSS,required,True,"We need someone who knows TypeScript, CSS, React, HTML and JavaScript",True,verified
+JD022,HTML,required,True,"We need someone who knows TypeScript, CSS, React, HTML and JavaScript",True,verified
+JD022,JavaScript,required,True,"We need someone who knows TypeScript, CSS, React, HTML and JavaScript",True,verified
+JD022,React,required,True,"We need someone who knows TypeScript, CSS, React, HTML and JavaScript",True,verified
+JD022,TypeScript,required,True,"We need someone who knows TypeScript, CSS, React, HTML and JavaScript",True,verified
+JD022,Git,preferred,True,"Git is a plus, not a must",True,verified
+JD023,Docker,required,True,"We need someone who knows Python, Docker, Node.js and REST APIs",True,verified
+JD023,Node.js,required,True,"We need someone who knows Python, Docker, Node.js and REST APIs",True,verified
+JD023,Python,required,True,"We need someone who knows Python, Docker, Node.js and REST APIs",True,verified
+JD023,REST APIs,required,True,"We need someone who knows Python, Docker, Node.js and REST APIs",True,verified
+JD023,PostgreSQL,preferred,True,Bonus if you have used PostgreSQL,True,verified
+JD024,Copy Editing,required,True,"We need someone who knows WordPress, Copy Editing and SEO",True,verified
+JD024,SEO,required,True,"We need someone who knows WordPress, Copy Editing and SEO",True,verified
+JD024,WordPress,required,True,"We need someone who knows WordPress, Copy Editing and SEO",True,verified
+JD024,Research,preferred,True,"Research is a plus, not a must",True,verified
+JD025,Canva,required,True,"We need someone who knows Canva, Google Analytics and Email Marketing",True,verified
+JD025,Email Marketing,required,True,"We need someone who knows Canva, Google Analytics and Email Marketing",True,verified
+JD025,Google Analytics,required,True,"We need someone who knows Canva, Google Analytics and Email Marketing",True,verified
+JD025,Social Media Marketing,preferred,True,"Social Media Marketing is a plus, not a must",True,verified
+JD026,Design Systems,required,True,"We need someone who knows Wireframing, Design Systems and Figma",True,verified
+JD026,Figma,required,True,"We need someone who knows Wireframing, Design Systems and Figma",True,verified
+JD026,Wireframing,required,True,"We need someone who knows Wireframing, Design Systems and Figma",True,verified
+JD026,Prototyping,preferred,True,"Prototyping is a plus, not a must",True,verified
+JD027,Accounting,required,True,"You will use GST, Accounting, Tally and Financial Modelling every day",True,verified
+JD027,Financial Modelling,required,True,"You will use GST, Accounting, Tally and Financial Modelling every day",True,verified
+JD027,GST,required,True,"You will use GST, Accounting, Tally and Financial Modelling every day",True,verified
+JD027,Tally,required,True,"You will use GST, Accounting, Tally and Financial Modelling every day",True,verified
+JD027,Microsoft Excel,preferred,True,Nice to have: Microsoft Excel,True,verified
+JD028,Machine Learning,required,True,"You will use Machine Learning, Pandas and PyTorch every day",True,verified
+JD028,Pandas,required,True,"You will use Machine Learning, Pandas and PyTorch every day",True,verified
+JD028,PyTorch,required,True,"You will use Machine Learning, Pandas and PyTorch every day",True,verified
+JD028,Python,preferred,True,Bonus if you have used Python,True,verified
+JD029,Microsoft Excel,required,True,"You must be comfortable with Microsoft Excel, Written English and Zendesk",True,verified
+JD029,Written English,required,True,"You must be comfortable with Microsoft Excel, Written English and Zendesk",True,verified
+JD029,Zendesk,required,True,"You must be comfortable with Microsoft Excel, Written English and Zendesk",True,verified
+JD029,Customer Support,preferred,True,Nice to have: Customer Support,True,verified
+JD030,HR Operations,required,True,"Required: Microsoft Excel, HR Operations and Recruiting",True,verified
+JD030,Microsoft Excel,required,True,"Required: Microsoft Excel, HR Operations and Recruiting",True,verified
+JD030,Recruiting,required,True,"Required: Microsoft Excel, HR Operations and Recruiting",True,verified
+JD030,Interviewing,preferred,True,"Interviewing is a plus, not a must",True,verified
+JD031,Data Cleaning,required,True,"You will use Data Cleaning, Microsoft Excel, Python and Statistics every day",True,verified
+JD031,Microsoft Excel,required,True,"You will use Data Cleaning, Microsoft Excel, Python and Statistics every day",True,verified
+JD031,Python,required,True,"You will use Data Cleaning, Microsoft Excel, Python and Statistics every day",True,verified
+JD031,Statistics,required,True,"You will use Data Cleaning, Microsoft Excel, Python and Statistics every day",True,verified
+JD031,SQL,preferred,True,"SQL is a plus, not a must",True,verified
+JD032,Git,required,True,"You will use React, HTML, JavaScript and Git every day",True,verified
+JD032,HTML,required,True,"You will use React, HTML, JavaScript and Git every day",True,verified
+JD032,JavaScript,required,True,"You will use React, HTML, JavaScript and Git every day",True,verified
+JD032,React,required,True,"You will use React, HTML, JavaScript and Git every day",True,verified
+JD032,CSS,preferred,True,Bonus if you have used CSS,True,verified
+JD033,Git,required,True,"Required: Python, Node.js, PostgreSQL and Git",True,verified
+JD033,Node.js,required,True,"Required: Python, Node.js, PostgreSQL and Git",True,verified
+JD033,PostgreSQL,required,True,"Required: Python, Node.js, PostgreSQL and Git",True,verified
+JD033,Python,required,True,"Required: Python, Node.js, PostgreSQL and Git",True,verified
+JD033,REST APIs,preferred,True,Nice to have: REST APIs,True,verified
+JD034,Content Writing,required,True,"You will use WordPress, Research and Content Writing every day",True,verified
+JD034,Research,required,True,"You will use WordPress, Research and Content Writing every day",True,verified
+JD034,WordPress,required,True,"You will use WordPress, Research and Content Writing every day",True,verified
+JD034,SEO,preferred,True,Nice to have: SEO,True,verified
+JD035,Canva,required,True,"You will use Email Marketing, Google Analytics, Copywriting and Canva every day",True,verified
+JD035,Copywriting,required,True,"You will use Email Marketing, Google Analytics, Copywriting and Canva every day",True,verified
+JD035,Email Marketing,required,True,"You will use Email Marketing, Google Analytics, Copywriting and Canva every day",True,verified
+JD035,Google Analytics,required,True,"You will use Email Marketing, Google Analytics, Copywriting and Canva every day",True,verified
+JD035,Social Media Marketing,preferred,True,Nice to have: Social Media Marketing,True,verified
+JD036,Figma,required,True,"Required: User Research, Figma and Wireframing",True,verified
+JD036,User Research,required,True,"Required: User Research, Figma and Wireframing",True,verified
+JD036,Wireframing,required,True,"Required: User Research, Figma and Wireframing",True,verified
+JD036,Design Systems,preferred,True,"Design Systems is a plus, not a must",True,verified
+JD037,Accounting,required,True,"You will use Financial Modelling, Tally and Accounting every day",True,verified
+JD037,Financial Modelling,required,True,"You will use Financial Modelling, Tally and Accounting every day",True,verified
+JD037,Tally,required,True,"You will use Financial Modelling, Tally and Accounting every day",True,verified
+JD037,GST,preferred,True,Bonus if you have used GST,True,verified
+JD038,Pandas,required,True,"You must be comfortable with Pandas, SQL, Python, PyTorch and Statistics",True,verified
+JD038,PyTorch,required,True,"You must be comfortable with Pandas, SQL, Python, PyTorch and Statistics",True,verified
+JD038,Python,required,True,"You must be comfortable with Pandas, SQL, Python, PyTorch and Statistics",True,verified
+JD038,SQL,required,True,"You must be comfortable with Pandas, SQL, Python, PyTorch and Statistics",True,verified
+JD038,Statistics,required,True,"You must be comfortable with Pandas, SQL, Python, PyTorch and Statistics",True,verified
+JD038,Machine Learning,preferred,True,Bonus if you have used Machine Learning,True,verified
+JD039,Customer Support,required,True,"You will use Microsoft Excel, Customer Support and Written English every day",True,verified
+JD039,Microsoft Excel,required,True,"You will use Microsoft Excel, Customer Support and Written English every day",True,verified
+JD039,Written English,required,True,"You will use Microsoft Excel, Customer Support and Written English every day",True,verified
+JD039,Zendesk,preferred,True,"Zendesk is a plus, not a must",True,verified
+JD040,Interviewing,required,True,"Required: Recruiting, Interviewing and Microsoft Excel",True,verified
+JD040,Microsoft Excel,required,True,"Required: Recruiting, Interviewing and Microsoft Excel",True,verified
+JD040,Recruiting,required,True,"Required: Recruiting, Interviewing and Microsoft Excel",True,verified
+JD040,HR Operations,preferred,True,"HR Operations is a plus, not a must",True,verified
+JD041,Data Cleaning,required,True,"You must be comfortable with Power BI, Data Cleaning and Microsoft Excel",True,verified
+JD041,Microsoft Excel,required,True,"You must be comfortable with Power BI, Data Cleaning and Microsoft Excel",True,verified
+JD041,Power BI,required,True,"You must be comfortable with Power BI, Data Cleaning and Microsoft Excel",True,verified
+JD041,SQL,preferred,True,Bonus if you have used SQL,True,verified
+JD042,Git,required,True,"We need someone who knows JavaScript, React and Git",True,verified
+JD042,JavaScript,required,True,"We need someone who knows JavaScript, React and Git",True,verified
+JD042,React,required,True,"We need someone who knows JavaScript, React and Git",True,verified
+JD042,CSS,preferred,True,"CSS is a plus, not a must",True,verified
+JD043,Node.js,required,True,"Required: REST APIs, PostgreSQL and Node.js",True,verified
+JD043,PostgreSQL,required,True,"Required: REST APIs, PostgreSQL and Node.js",True,verified
+JD043,REST APIs,required,True,"Required: REST APIs, PostgreSQL and Node.js",True,verified
+JD043,Git,preferred,True,Nice to have: Git,True,verified
+JD044,Content Writing,required,True,"Required: SEO, Content Writing and Copy Editing",True,verified
+JD044,Copy Editing,required,True,"Required: SEO, Content Writing and Copy Editing",True,verified
+JD044,SEO,required,True,"Required: SEO, Content Writing and Copy Editing",True,verified
+JD044,Research,preferred,True,Bonus if you have used Research,True,verified
+JD045,Copywriting,required,True,"You will use Copywriting, Email Marketing and Social Media Marketing every day",True,verified
+JD045,Email Marketing,required,True,"You will use Copywriting, Email Marketing and Social Media Marketing every day",True,verified
+JD045,Social Media Marketing,required,True,"You will use Copywriting, Email Marketing and Social Media Marketing every day",True,verified
+JD045,Canva,preferred,True,Nice to have: Canva,True,verified
+JD046,Design Systems,required,True,"You will use User Research, Design Systems, Figma and Prototyping every day",True,verified
+JD046,Figma,required,True,"You will use User Research, Design Systems, Figma and Prototyping every day",True,verified
+JD046,Prototyping,required,True,"You will use User Research, Design Systems, Figma and Prototyping every day",True,verified
+JD046,User Research,required,True,"You will use User Research, Design Systems, Figma and Prototyping every day",True,verified
+JD046,Wireframing,preferred,True,Nice to have: Wireframing,True,verified
+JD047,Financial Modelling,required,True,"You will use Tally, Financial Modelling, GST and Microsoft Excel every day",True,verified
+JD047,GST,required,True,"You will use Tally, Financial Modelling, GST and Microsoft Excel every day",True,verified
+JD047,Microsoft Excel,required,True,"You will use Tally, Financial Modelling, GST and Microsoft Excel every day",True,verified
+JD047,Tally,required,True,"You will use Tally, Financial Modelling, GST and Microsoft Excel every day",True,verified
+JD047,Accounting,preferred,True,Nice to have: Accounting,True,verified
+JD048,Machine Learning,required,True,"You will use Pandas, Python, Machine Learning, SQL and Statistics every day",True,verified
+JD048,Pandas,required,True,"You will use Pandas, Python, Machine Learning, SQL and Statistics every day",True,verified
+JD048,Python,required,True,"You will use Pandas, Python, Machine Learning, SQL and Statistics every day",True,verified
+JD048,SQL,required,True,"You will use Pandas, Python, Machine Learning, SQL and Statistics every day",True,verified
+JD048,Statistics,required,True,"You will use Pandas, Python, Machine Learning, SQL and Statistics every day",True,verified
+JD048,PyTorch,preferred,True,Bonus if you have used PyTorch,True,verified
+JD049,Customer Support,required,True,"You will use Microsoft Excel, Customer Support and Written English every day",True,verified
+JD049,Microsoft Excel,required,True,"You will use Microsoft Excel, Customer Support and Written English every day",True,verified
+JD049,Written English,required,True,"You will use Microsoft Excel, Customer Support and Written English every day",True,verified
+JD049,Zendesk,preferred,True,"Zendesk is a plus, not a must",True,verified
+JD050,HR Operations,required,True,"Required: HR Operations, Microsoft Excel and Recruiting",True,verified
+JD050,Microsoft Excel,required,True,"Required: HR Operations, Microsoft Excel and Recruiting",True,verified
+JD050,Recruiting,required,True,"Required: HR Operations, Microsoft Excel and Recruiting",True,verified
+JD050,Interviewing,preferred,True,Nice to have: Interviewing,True,verified

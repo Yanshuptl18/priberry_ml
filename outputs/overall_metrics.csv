@@ -1,0 +1,7 @@
+Metric Scope,Precision,Recall,F1-Score,Support (TP/FP/FN)
+Micro-Averaged,0.855,0.7533039647577092,0.8009367681498829,171/29/56
+Macro-Averaged,0.8731428571428572,0.7453333333333333,0.7870632700632698,50 JDs
+Required Skills Only (Micro),,0.8531073446327684,,151/NA/26
+Required Skills Only (Macro),,0.8463333333333334,,50 JDs
+Preferred Skills Only (Micro),,0.4,,20/NA/30
+Preferred Skills Only (Macro),,0.4,,50 JDs

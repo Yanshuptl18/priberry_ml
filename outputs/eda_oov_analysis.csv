@@ -1,0 +1,4 @@
+OOV Category,Distinct Tags,Tag Names,Total Emission Instances,Percentage of All OOV (%),Percentage of All Predictions (%)
+Technical Variants (Approved Synonyms),7,"Excel, Node, Financial Modeling, JS, Postgres, ML, Social Media",17,50.0,8.5
+Ambiguous Technical Terms (Unmapped),1,API,1,2.94,0.5
+Out-of-Vocabulary Soft Skills,5,"Leadership, Teamwork, Problem Solving, Communication, Time Management",16,47.06,8.0

@@ -1,0 +1,57 @@
+jd_id,job_title,company,missed_skill,tier,error_category
+JD001,Data Analyst Intern,Kite Learning,Data Cleaning,Preferred,Preferred Skill Omission
+JD002,Frontend Developer Intern,Orbit Logistics,HTML,Preferred,Preferred Skill Omission
+JD002,Frontend Developer Intern,Orbit Logistics,React,Required,Required Skill Omission
+JD003,Backend Developer Intern,Vayu Mobility,Git,Required,Required Skill Omission
+JD003,Backend Developer Intern,Vayu Mobility,Python,Preferred,Preferred Skill Omission
+JD006,UI/UX Design Intern,Kite Learning,Prototyping,Preferred,Preferred Skill Omission
+JD007,Finance Intern,Lumen Cloud Systems,Tally,Preferred,Preferred Skill Omission
+JD008,Machine Learning Intern,Tarang Media,Machine Learning,Required,Required Skill Omission
+JD008,Machine Learning Intern,Tarang Media,Pandas,Preferred,Preferred Skill Omission
+JD009,Customer Support Intern,Saffron Foods,Microsoft Excel,Required,Required Skill Omission
+JD010,HR Intern,Tarang Media,HR Operations,Required,Required Skill Omission
+JD010,HR Intern,Tarang Media,Interviewing,Required,Required Skill Omission
+JD010,HR Intern,Tarang Media,Microsoft Excel,Preferred,Preferred Skill Omission
+JD012,Frontend Developer Intern,Lumen Cloud Systems,HTML,Preferred,Preferred Skill Omission
+JD013,Backend Developer Intern,Pebble Health,Docker,Preferred,Preferred Skill Omission
+JD013,Backend Developer Intern,Pebble Health,PostgreSQL,Required,Required Skill Omission
+JD014,Content Writer Intern,Pebble Health,Content Writing,Required,Required Skill Omission
+JD014,Content Writer Intern,Pebble Health,WordPress,Preferred,Preferred Skill Omission
+JD015,Marketing Intern,Saffron Foods,Canva,Required,Required Skill Omission
+JD015,Marketing Intern,Saffron Foods,Social Media Marketing,Preferred,Preferred Skill Omission
+JD016,UI/UX Design Intern,Saffron Foods,Figma,Required,Required Skill Omission
+JD016,UI/UX Design Intern,Saffron Foods,Wireframing,Preferred,Preferred Skill Omission
+JD017,Finance Intern,Kosha Fintech,GST,Preferred,Preferred Skill Omission
+JD018,Machine Learning Intern,Kosha Fintech,Statistics,Preferred,Preferred Skill Omission
+JD019,Customer Support Intern,Tarang Media,Written English,Required,Required Skill Omission
+JD019,Customer Support Intern,Tarang Media,Zendesk,Preferred,Preferred Skill Omission
+JD020,HR Intern,Pebble Health,HR Operations,Preferred,Preferred Skill Omission
+JD021,Data Analyst Intern,Brightlane Retail,Python,Preferred,Preferred Skill Omission
+JD022,Frontend Developer Intern,Kite Learning,HTML,Required,Required Skill Omission
+JD023,Backend Developer Intern,Pebble Health,REST APIs,Required,Required Skill Omission
+JD024,Content Writer Intern,Kosha Fintech,Research,Preferred,Preferred Skill Omission
+JD025,Marketing Intern,Lumen Cloud Systems,Social Media Marketing,Preferred,Preferred Skill Omission
+JD026,UI/UX Design Intern,Brightlane Retail,Prototyping,Preferred,Preferred Skill Omission
+JD027,Finance Intern,Tarang Media,Accounting,Required,Required Skill Omission
+JD027,Finance Intern,Tarang Media,GST,Required,Required Skill Omission
+JD027,Finance Intern,Tarang Media,Microsoft Excel,Preferred,Preferred Skill Omission
+JD028,Machine Learning Intern,Lumen Cloud Systems,Machine Learning,Required,Required Skill Omission
+JD029,Customer Support Intern,Kite Learning,Zendesk,Required,Required Skill Omission
+JD030,HR Intern,Kosha Fintech,Interviewing,Preferred,Preferred Skill Omission
+JD031,Data Analyst Intern,Tarang Media,SQL,Preferred,Preferred Skill Omission
+JD032,Frontend Developer Intern,Vayu Mobility,CSS,Preferred,Preferred Skill Omission
+JD033,Backend Developer Intern,Saffron Foods,REST APIs,Preferred,Preferred Skill Omission
+JD036,UI/UX Design Intern,Tarang Media,Design Systems,Preferred,Preferred Skill Omission
+JD037,Finance Intern,Kite Learning,GST,Preferred,Preferred Skill Omission
+JD041,Data Analyst Intern,Nimbus AI Labs,Power BI,Required,Required Skill Omission
+JD041,Data Analyst Intern,Nimbus AI Labs,SQL,Preferred,Preferred Skill Omission
+JD042,Frontend Developer Intern,Vayu Mobility,CSS,Preferred,Preferred Skill Omission
+JD043,Backend Developer Intern,Pebble Health,PostgreSQL,Required,Required Skill Omission
+JD043,Backend Developer Intern,Pebble Health,REST APIs,Required,Required Skill Omission
+JD044,Content Writer Intern,Orbit Logistics,Copy Editing,Required,Required Skill Omission
+JD045,Marketing Intern,Pebble Health,Canva,Preferred,Preferred Skill Omission
+JD045,Marketing Intern,Pebble Health,Copywriting,Required,Required Skill Omission
+JD046,UI/UX Design Intern,Kite Learning,Design Systems,Required,Required Skill Omission
+JD046,UI/UX Design Intern,Kite Learning,Figma,Required,Required Skill Omission
+JD049,Customer Support Intern,Pebble Health,Customer Support,Required,Required Skill Omission
+JD049,Customer Support Intern,Pebble Health,Microsoft Excel,Required,Required Skill Omission

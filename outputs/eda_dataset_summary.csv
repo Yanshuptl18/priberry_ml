@@ -1,0 +1,10 @@
+Metric,Value
+Total Job Descriptions,50
+Unique Job IDs,50
+Unique Companies,10
+Unique Job Titles,10
+Canonical Skills in Vocabulary,54
+Total Raw Prediction Instances,200
+Unique Predicted Tag Strings,61
+Exact Canonical Prediction Strings,48
+Out-of-Vocabulary Prediction Strings,13
